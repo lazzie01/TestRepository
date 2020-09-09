@@ -10,6 +10,9 @@ namespace TestRepository
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Foxie");
+            int x1 = 0;
+            Console.ReadLine();
         }
     }
 }
