@@ -1,7 +1,0 @@
-C:\Users\USER\source\repos\TestRepository\TestRepository\bin\Debug\TestRepository.exe.config
-C:\Users\USER\source\repos\TestRepository\TestRepository\bin\Debug\TestRepository.exe
-C:\Users\USER\source\repos\TestRepository\TestRepository\bin\Debug\TestRepository.pdb
-C:\Users\USER\source\repos\TestRepository\TestRepository\obj\Debug\TestRepository.csprojAssemblyReference.cache
-C:\Users\USER\source\repos\TestRepository\TestRepository\obj\Debug\TestRepository.csproj.CoreCompileInputs.cache
-C:\Users\USER\source\repos\TestRepository\TestRepository\obj\Debug\TestRepository.exe
-C:\Users\USER\source\repos\TestRepository\TestRepository\obj\Debug\TestRepository.pdb

@@ -10,13 +10,8 @@ namespace TestRepository
     {
         static void Main(string[] args)
         {
-            double h = 2.18;
-            double d = 1.74;
-            double pi = Math.PI;
-
-            double v = Volume(h,d,pi);
-
-            Console.WriteLine("Volume is: "+ v);
+            Console.WriteLine("Hello Foxie");
+            int x1 = 0;
             Console.ReadLine();
         }
 
