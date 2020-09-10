@@ -24,5 +24,10 @@ namespace TestRepository
         {
             return pi * (d / 2) * (d / 2) * h;
         }
+
+        static double Area(double h, double d, double pi)
+        {
+            return pi * (d / 2) * (d / 2) * h;
+        }
     }
 }
